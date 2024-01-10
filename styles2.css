@@ -11,6 +11,13 @@ body{
   align-items: center;
   min-height: 100vh;
 }
+h6{
+  position: absolute;
+  margin-top: 185%;
+  margin-right: 80%;
+  color: #ffffff;
+  font-family: 'Courier New', Courier, monospace;
+}
 .fade-in-text{
   color: #fff;
   font-family:'Courier New', Courier, monospace;
